@@ -1,0 +1,12 @@
+
+public class ArraysPrimitiveDataTypes {
+
+
+	public static void main(String[] args) {
+		
+		int[] arrays; //Declare array with type int
+		int arrays2[]; //same thought as above, just a different type of noting it down
+
+	}
+
+}

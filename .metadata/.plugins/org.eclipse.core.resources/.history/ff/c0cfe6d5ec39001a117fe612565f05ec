@@ -1,0 +1,11 @@
+
+public class ArraysPrimitiveDataTypes {
+
+
+	public static void main(String[] args) {
+		
+		int[] arrays; //Declare array with type int
+
+	}
+
+}

@@ -1,0 +1,21 @@
+
+public class IfElseTask {
+
+
+	public static void main(String[] args) {
+		int time = 20;
+		if(time < 10){
+			if(time > 6){
+				System.out.println("Morning");
+			}
+				System.out.println("Go to sleep");
+		}else{
+			if(time > 14){
+				System.out.println("Good afternoon");	
+			}
+				System.out.println("Good day");
+		}
+
+	}
+
+}

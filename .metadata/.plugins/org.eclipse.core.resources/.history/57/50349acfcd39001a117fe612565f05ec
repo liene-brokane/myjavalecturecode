@@ -1,0 +1,16 @@
+
+public class IfElseIf {
+
+
+	public static void main(String[] args) {
+		int time = 23;
+		
+		if(){
+			
+		}else{
+			
+		}
+
+	}
+
+}
