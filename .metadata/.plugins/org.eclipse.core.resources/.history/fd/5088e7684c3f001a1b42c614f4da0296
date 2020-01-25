@@ -1,0 +1,11 @@
+package lv.liene.player;
+
+public class FootballPlayer {
+	
+	String position;
+	int shirtNumber;
+	boolean build;
+	long height;
+	int weight;
+
+}

@@ -1,0 +1,15 @@
+package lv.liene.learnstring;
+
+public class TestStringClass {
+
+
+	public static void main(String[] args) {
+		
+		String str = "Index";
+		String strClass = new String();
+		System.out.println(str);
+
+
+	}
+
+}

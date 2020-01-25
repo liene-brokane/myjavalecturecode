@@ -1,0 +1,25 @@
+package lv.liene.repeat;
+
+import java.util.Scanner;
+
+public class TestJava {
+
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		System.out.println("Input value ");
+		
+		int inputvalue = 2;
+		
+
+		while(input.hasNextInt()){
+			inputvalue = input.nextInt();
+		}
+		
+		System.out.println("Your input value is "+inputvalue);
+
+
+	}
+
+}

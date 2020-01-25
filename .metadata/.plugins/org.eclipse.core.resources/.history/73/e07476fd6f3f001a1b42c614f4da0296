@@ -1,0 +1,16 @@
+package lv.liene.repeatarrays;
+
+import java.util.Scanner;
+
+public class ScannerAndArrays {
+
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+
+
+	}
+
+}

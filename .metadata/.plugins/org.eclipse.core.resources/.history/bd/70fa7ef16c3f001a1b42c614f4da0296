@@ -1,0 +1,25 @@
+package lv.liene.learnstring;
+
+public class TestStringClass {
+
+
+	public static void main(String[] args) {
+		
+		String str = "In dex";
+		String strClass = new String("Index parameter");
+		System.out.println(str);
+		System.out.println("String like object "+strClass);
+		
+		int stringLength = str.length();
+		System.out.println(stringLength);
+		
+		System.out.println(str.charAt(3));
+		
+		System.out.println(str.toLowerCase());
+		System.out.println(str.toUpperCase());
+		
+		System.out.println(str.trim);
+
+	}
+
+}

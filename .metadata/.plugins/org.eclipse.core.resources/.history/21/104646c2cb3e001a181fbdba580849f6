@@ -1,0 +1,29 @@
+package lv.liene;
+
+public class LearnMethods {
+
+	public static void main(String[] args) {
+		
+		getMyName();
+		getMyName();
+		getMyName();
+		getMyName();
+		getMyName();
+		getMyName();
+		getMyName();
+		System.out.println("--------------------------------------");
+		getMyCity();
+
+	}
+	public static void getMyName(){
+		System.out.println("My name is Liene.");
+	}
+	public static void getMyCity(){
+		getMyName();
+		System.out.println("My city is Ventspils.");
+	}
+	
+	public static void getIhaveACat(){
+		
+	}
+}
