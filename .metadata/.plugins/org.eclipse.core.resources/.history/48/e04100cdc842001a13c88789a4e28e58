@@ -1,0 +1,7 @@
+package lv.liene;
+
+public class Teacher extends Person{
+	
+	
+
+}

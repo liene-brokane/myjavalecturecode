@@ -1,0 +1,7 @@
+package lv.liene.graph;
+
+public class Point3D {
+	
+	private int z;
+
+}

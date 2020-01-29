@@ -1,0 +1,5 @@
+package lv.liene.users;
+
+public class Person {
+
+}

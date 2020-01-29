@@ -1,0 +1,9 @@
+package lv.liene.graph;
+
+// To inheritance class we use extend keyword
+
+public class Point3D {
+	
+	private int z;
+
+}

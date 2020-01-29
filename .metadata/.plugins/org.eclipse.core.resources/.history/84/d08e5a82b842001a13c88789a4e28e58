@@ -1,0 +1,15 @@
+package lv.liene.graph;
+
+public class Point2D {
+	
+	private int x;
+	private int y;
+	
+	public Point2D(){
+		this.x = 0;
+		this.y = 0;
+		
+	}
+	
+
+}

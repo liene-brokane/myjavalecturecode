@@ -1,0 +1,5 @@
+package lv.liene.graph;
+
+public class Point4D extends Point2D{
+
+}

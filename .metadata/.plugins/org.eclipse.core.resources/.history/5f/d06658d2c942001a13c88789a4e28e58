@@ -1,0 +1,22 @@
+package lv.liene.users;
+
+public class Teacher extends Person {
+
+	private int numCourses;
+	private String[] courses;
+
+	public Teacher(String name, String address) {
+		super(name, address);
+		this.numCourses = 0;
+		this.courses = new String
+
+	}
+	
+	public void addCourse(String course){
+		
+		courses[numCourses] = course;
+		++numCourses;
+		
+	}
+
+}

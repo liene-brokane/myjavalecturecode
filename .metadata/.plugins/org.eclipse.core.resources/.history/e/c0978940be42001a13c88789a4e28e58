@@ -1,0 +1,13 @@
+package lv.liene;
+
+public class TestInheritance {
+
+	public static void main(String[] args) {
+		
+		Point2D point = new Point2d();
+		
+		
+
+	}
+
+}
